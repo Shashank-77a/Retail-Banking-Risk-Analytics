@@ -28,6 +28,6 @@ Once the Excel file was ready, I connected it to Power BI to build the dashboard
 * **Risk:** A scatter plot comparing credit scores to loan balances.
 * **Locations:** A map showing where the deposits are coming from globally.
 
-* ## Tools I Used
+## Tools I Used
 * **Microsoft Excel:** Data Analysis Toolpak, Logical Formulas.
 * **Microsoft Power BI:** Dashboard creation and data visualization.
