@@ -1,7 +1,7 @@
 # Retail-Banking-Risk-Analytics
 End-to-end data analytics project featuring Excel-based statistical modeling and a Power BI dashboard for retail banking risk intelligence.
 
-* **Note:** This is a portfolio project created for practice and skill demonstration. The dataset used is a synthetic, 
+**Note:** This is a portfolio project created for practice and skill demonstration. The dataset used is a synthetic, 
 AI-generated dataset designed to simulate real-world retail banking scenarios.
 
 ## Project Objective
